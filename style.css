@@ -6,20 +6,22 @@
 }
 
 body {
+    width: 100vw;
+    height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-image: url(./assets/fundo-verde-animação.jpg);
-    background-size: 100vw 100vh;
+    background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 main {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     background-color: #FFFFFF33;
-    margin-top: 15px;
     padding: 10px 20px;
     border-radius: 10px;
 }
@@ -32,14 +34,12 @@ h1 {
     color: #570947;
     text-shadow: 1px 1px 10px #FFFFFF;
     margin-bottom: 15px;
-
 }
 
 div {
     display: flex;
     flex-direction: column;
     width: 300px;
-
 }
 
 label {
@@ -120,11 +120,3 @@ span:hover {
     color:#570947
 }
 
-
-@media screen and (max-width: 1200px) and (min-height: 670px) {
-
-   main {
-    margin-top: 30%;
-   }
-    
-    }
