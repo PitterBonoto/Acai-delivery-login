@@ -14,4 +14,4 @@
 <br>
 
 <img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/macBook-a%C3%A7ai.png" height=420px>
-<img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/mobile-a%C3%A7ai.png" height=410px>
+<img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/mobile-a%C3%A7ai.png" height=400px>
