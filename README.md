@@ -13,5 +13,5 @@
 <h5>As imagens abaixo mostram o projeto em duas telas, uma onde o cliente entra com seu login e outra onde ainda não possui um e é necessário criar uma conta.</h5>
 <br>
 
-<img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/macBook-a%C3%A7ai.png" width=420px dis>
-<img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/mobile-a%C3%A7ai.png" width=400px>
+<img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/macBook-a%C3%A7ai.png" height=420px>
+<img align="left" src="https://raw.githubusercontent.com/PitterBonoto/login-screen-acai/b1d257b2fa70b72346c3e6e86fc11acebb552f84/assets/mobile-a%C3%A7ai.png" height=400px>
